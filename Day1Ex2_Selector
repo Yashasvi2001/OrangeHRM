@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    p{
+        background-color: rgb(255, 178, 127);
+        font-style:inherit ;
+        padding: 25px;
+        color: gray;
+    }
+</style>
+<body>
+    <h1><u>Selector:</u></h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe delectus ratione, aspernatur totam aut earum eaque omnis deleniti dignissimos ab animi et reiciendis! A autem fugit exercitationem, nulla dignissimos magnam.</p>
+    
+<selec
+</body>
+</html>
